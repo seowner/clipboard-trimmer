@@ -1,0 +1,13 @@
+{
+  "manifest_version": 3,
+  "name": "Clipboard Trimmer",
+  "version": "1.0",
+  "description": "Trims clipboard content to remove line breaks.",
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"]
+    }
+  ],
+  "permissions": ["activeTab"]
+}
