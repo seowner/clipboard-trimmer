@@ -1,6 +1,6 @@
 # Clipboard Trimmer
 
-Clipboard Trimmer is a Chrome extension that trims items in the clipboard and removes spaces/line breaks at the end. This extension was created by GPT4 because I got annoyed with having to remove line breaks when pasting data from Excel into textareas.
+Clipboard Trimmer is a simple, lightweight Chrome extension that trims items in the clipboard and removes spaces/line breaks at the end. This extension was created by GPT4 because I got annoyed with having to remove line breaks when pasting data from Excel into textareas.
 
 # Installation
 
